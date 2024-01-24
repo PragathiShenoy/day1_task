@@ -1,0 +1,32 @@
+2. Blog about objects and its internal representation in Javascript:
+
+Cracking the Code of JavaScript Objects: A Samosa Story
+Imagine you're at a bustling Indian market, surrounded by the tempting aroma of freshly fried samosas. Each samosa, crispy and golden, is like a JavaScript object. Now, let's peek inside and see what makes them so delicious!
+
+What's inside a samosa?
+
+Think of the stuffing as the properties – all the yummy bits that make the samosa special. You could have potatoes (a string value), peas (number values), and even a spicy chutney (boolean value – either spicy or not!). Each of these fillings has a special label, like a little flag, called a key. You use the key (potato, pea, chutney) to find the specific filling you want.
+
+But wait, there's more!
+
+Every samosa is built from a secret recipe, called a prototype. This recipe tells you which ingredients go in and how they're put together. Imagine it as the master samosa maker who shows everyone how to create the perfect one! If you ever forget what belongs in your samosa, you can always check the recipe.
+
+How do you eat a samosa?
+
+Just like grabbing the part you want using your fingers, you use the key (like "chutney") to tell the JavaScript object which part you want to "taste" (access). It's like having a secret code to unlock the hidden flavors!
+
+Making your own samosas:
+
+There are three ways to make your own samosa-objects:
+
+The "Samosa-wala" method: You directly list down all the ingredients and their labels (key-value pairs) – potato=spicy, pea=green, chutney=true.
+The "Grandma's Recipe" method: You use a special function like a magic incantation to create a new samosa based on your grandma's secret recipe (the prototype).
+The "Neighbor's Samosa" method: You take your neighbor's delicious samosa and make a similar one, maybe with some extra peas or a different chutney.
+Why be a Samosa Master?
+
+Knowing how samosas work gives you superpowers! You can:
+
+Borrow fillings: If you run out of peas, you can "borrow" from your neighbor's recipe (prototype).
+Mix and match: You can create new samosas with different fillings and spices, letting your creativity shine!
+Become the Samosa King: The more you understand objects, the more amazing things you can build with them, not just samosas, but anything your imagination can conjure!
+So, next time you code with JavaScript objects, remember the delicious world inside each one. With a little understanding, you can become a master chef of the digital kitchen, creating something truly unique and flavorful!
